@@ -1,11 +1,16 @@
 _repo: General-Wauchope_65570
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65570-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Baird, William
     gutenberg_agent_id: '42226'
     url: http://www.gutenberg.org/2009/agents/42226
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65570#General-Wauchope
 gutenberg_issued: '2021-06-11'
 gutenberg_type: Text
 identifiers:
